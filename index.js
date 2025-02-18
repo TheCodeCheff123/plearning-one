@@ -1,2 +1,4 @@
 // console.log('hello world');
-import {} from './utils'
+import {generateRandomNumbers} from './utils.js'
+
+console.log(generateRandomNumbers())
