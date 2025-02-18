@@ -25,3 +25,8 @@ this is what the code looks like now
   "author": "",
   "license": "ISC"
 }
+i noticed when importing funtions you can add 2 or more functions together like this 
+import {generateRandomNumbers, subtract} from './utils.js'
+
+Note: Math.floor() rounds up the number to a whole number
+Math.random() gives you random numbers from 1 to 9
